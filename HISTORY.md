@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.0.4]
 ### Fixed
-- DRON-97 remove use of request animation frame to prevent high CPU on tab refocus events.
+- DRON-97 remove use of request animation frame to prevent high dsmn djn nmds nmds jnsa jk skj jksad jksa  jk CPU on tab refocus events.
 
 ## [2.0.3]
 ### Fixed
