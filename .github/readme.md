@@ -10,7 +10,7 @@ Drone is a continuous delivery system built on container technology. Drone uses 
 - [Table of Contents](#table-of-contents)
 - [Community and Support](#community-and-support)
 - [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
+- [Code of Conduct](#code-of-conduct)v f 
 - [Setup Documentation](#setup-documentation)
 - [Usage Documentation](#usage-documentation)
 - [Example `.drone.yml` build file](#example-droneyml-build-file)
